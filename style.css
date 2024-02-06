@@ -1,0 +1,31 @@
+body {
+    font-family: Arial, sans-serif;
+    background-color: #000000;
+    text-align: center;
+    padding: 100px;
+    color: white; 
+}
+
+.form {
+    display: inline-block;
+}
+
+
+.btn {
+    background-image: url('button_image.png');
+    background-size: contain;
+    background-repeat: no-repeat;
+    background-position: center;
+    width: 200px;
+    height: 100px;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+}
+
+
+.btn:disabled {
+    cursor: default;
+    pointer-events: none;
+}
+
