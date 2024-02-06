@@ -26,7 +26,7 @@ Parrot OS og Kali Linux kommer med disse verktøyene forhåndsinstallert.
 
 Installasjon
 Pakk ut de nedlastede filene til din webserver's root directory, for eksempel /var/www/html/ på de fleste Debian-baserte systemer, inkludert Parrot OS og Kali Linux.
-Sørg for at webserveren og PHP er installert og kjører.
+Sørg for at webserveren og PHP er installert og kjører. (start apache2 med: sudo systemctl start apache2)
 Tilgang i Nettleseren
 For å åpne utfordringen i nettleseren:
 
