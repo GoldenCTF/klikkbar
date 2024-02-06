@@ -13,7 +13,7 @@ Dette repositoriet inneholder en Capture The Flag (CTF) utfordring hvor målet e
 For å laste ned utfordringen, klikk på "Clone or download" på GitHub-siden og velg "Download ZIP", eller klone repositoriet direkte med følgende kommando:
 
 ```bash
-git clone https://github.com/your_username/your_repository_name.git
+git clone https://github.com/GoldenCTF/klikkbar.git
 
 ```
 
